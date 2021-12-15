@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+}
+
+header {
+    text-align: center;
+}
+h1 {
+    color: #45a7ba;
+    margin: 50px;
+}
+h2 {
+
+}
+h3 {
+
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+nav a {
+    color: gray;
+    text-decoration: none;
+}
