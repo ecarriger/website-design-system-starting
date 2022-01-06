@@ -25,6 +25,20 @@ nav li {
     margin: 10px;
 }
 nav a {
-    color: gray;
+    color: #666263;
     text-decoration: none;
+}
+
+.color-box {
+    width: 100px;
+    height: 75px
+}
+#primary-color-box {
+    background-color: #45a7ba;
+}
+#secondary-color-box {
+    background-color: #fcba03;
+}
+#tertiary-color-box {
+    background-color: #666263;
 }
