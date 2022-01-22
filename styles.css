@@ -41,13 +41,27 @@ section > div {
     height: 75px;
 }
 .color > div {
-    width: 100px;
+    margin: 0 2%;
     display: inline-block;
     height: 75px;
     vertical-align: top;
 }
-.color-text h3 {
-    margin: 0;
+.color-title {
+    width: 20%;
+}
+.color-box {
+    width: 20%;
+    text-align: center;
+    line-height: 75px;
+}
+.color-box p {
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+.color-text {
+    width: 47%;
 }
 #primary-color-box {
     background-color: #45a7ba;
