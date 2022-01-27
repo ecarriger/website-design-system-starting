@@ -17,7 +17,7 @@ h2 {
     margin: 30px 0;
 }
 h3 {
-    margin: 0;
+    margin: 0 0 20px 0;
 }
 nav li {
     display: inline;
@@ -38,21 +38,22 @@ section > div {
     margin: 35px 0;
 }
 .color {
-    height: 75px;
+    margin: 20px;
+    clear: left;
 }
 .color > div {
-    margin: 0 2%;
     display: inline-block;
     height: 75px;
     vertical-align: top;
 }
 .color-title {
-    width: 20%;
+
 }
 .color-box {
-    width: 20%;
+    float: left;
     text-align: center;
     line-height: 75px;
+    padding: 0 30px;
 }
 .color-box p {
     color: white;
@@ -61,7 +62,8 @@ section > div {
     line-height: normal;
 }
 .color-text {
-    width: 47%;
+    width: 75%;
+    margin: 5px 15px
 }
 #primary-color-box {
     background-color: #45a7ba;
