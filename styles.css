@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,300;0,500;1,300;1,500&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -11,20 +14,39 @@ header {
 }
 h1 {
     color: #45a7ba;
+    font-family: 'Bitter', serif;
+    font-size: 3em;
+    font-weight: 300;
     margin: 50px;
 }
 h2 {
+    color: #45a7ba;
+    font-family: 'Bitter', serif;
+    font-size: 2em;
+    font-weight: 300;
     margin: 30px 0;
 }
 h3 {
+    color: #666263;
+    font-family: 'Bitter', serif;
+    font-size: 1.5em;
+    font-weight: 300;
     margin: 20px 0 10px 0;
+}
+p {
+    color: #666263;
+    font-family: 'PT Sans', sans-serif;
+}
+a {
+    color: #fcba03;
+    font-family: 'PT Sans', sans-serif;
 }
 nav li {
     display: inline;
     margin: 10px;
 }
 nav a {
-    color: #666263;
+    font-size: 1.1em;
     text-decoration: none;
 }
 
