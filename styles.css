@@ -36,10 +36,14 @@ h3 {
 p {
     color: #666263;
     font-family: 'PT Sans', sans-serif;
+    margin: 10px 0;
 }
 a {
     color: #fcba03;
     font-family: 'PT Sans', sans-serif;
+}
+.italic {
+    font-style: italic;
 }
 nav li {
     display: inline;
@@ -100,4 +104,20 @@ section > div {
 }
 #tertiary-color-box {
     background-color: #666263;
+}
+.serif-example-regular {
+    font-family: 'Bitter', serif;
+    font-weight: 300;
+}
+.serif-example-bold {
+    font-family: 'Bitter', serif;
+    font-weight: 500;
+}
+.sans-example-regular {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+}
+.sans-example-bold {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
 }
