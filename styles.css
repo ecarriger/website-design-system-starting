@@ -17,7 +17,7 @@ h1 {
     font-family: 'Bitter', serif;
     font-size: 3em;
     font-weight: 300;
-    margin: 50px;
+    margin: 50px 0;
 }
 h2 {
     color: #45a7ba;
@@ -127,4 +127,13 @@ section > div {
 .sans-bold {
     font-family: 'PT Sans', sans-serif;
     font-weight: 700;
+}
+/*** Elements Sectioin ***/
+.element-code {
+    margin: 20px;
+    background-color: #ccc;
+}
+#h1-example {
+    border: 2px solid #666263;
+    padding: 50px;
 }
