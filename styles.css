@@ -60,13 +60,13 @@ main {
 }
 section {
     display: block;
+    margin: 20px;
 }
 section > div {
     margin: 35px 0;
 }
-.color {
-    margin: 20px;
-    clear: left;
+.menu-back {
+    
 }
 .color > div {
     display: inline-block;
@@ -105,9 +105,6 @@ section > div {
 }
 
 /*** Fonts Section ***/
-.font {
-    margin: 20px;
-}
 .font-label {
     margin: 20px 0 5px 0;
 }
