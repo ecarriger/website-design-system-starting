@@ -29,9 +29,9 @@ h2 {
 h3 {
     color: #666263;
     font-family: 'Bitter', serif;
-    font-size: 1.5em;
+    font-size: 1.6em;
     font-weight: 500;
-    margin: 40px 0 10px 0;
+    margin: 60px 0 20px 0;
 }
 p {
     color: #666263;
@@ -74,9 +74,6 @@ section > div {
 /*    height: 100px;*/
     margin: 10px;
 }
-.color-title {
-    
-}
 .color-box {
     float: left;
     text-align: center;
@@ -108,6 +105,9 @@ section > div {
 }
 
 /*** Fonts Section ***/
+.font {
+    margin: 20px;
+}
 .font-label {
     margin: 20px 0 5px 0;
 }
