@@ -31,7 +31,7 @@ h3 {
     font-family: 'Bitter', serif;
     font-size: 1.5em;
     font-weight: 300;
-    margin: 20px 0 10px 0;
+    margin: 40px 0 10px 0;
 }
 p {
     color: #666263;
@@ -70,7 +70,7 @@ section > div {
 .color > div {
     display: inline-block;
     vertical-align: top;
-    height: 100px;
+/*    height: 100px;*/
     margin: 10px;
 }
 .color-title {
