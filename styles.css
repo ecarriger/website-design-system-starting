@@ -43,6 +43,9 @@ a {
     color: #fcba03;
     font-family: 'PT Sans', sans-serif;
 }
+a:hover {
+    color: #666263;
+}
 .italic {
     font-style: italic;
 }
@@ -54,6 +57,9 @@ nav a {
     font-size: 1.1em;
     text-decoration: none;
 }
+nav a:hover {
+    text-decoration: underline;
+}
 
 main {
     margin: 30px 20%;
@@ -64,9 +70,6 @@ section {
 }
 section > div {
     margin: 35px 0;
-}
-.menu-back {
-    
 }
 .color > div {
     display: inline-block;
