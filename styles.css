@@ -129,11 +129,14 @@ section > div {
     font-weight: 700;
 }
 /*** Elements Sectioin ***/
-.element-code {
-    margin: 20px;
-    background-color: #ccc;
+code {
+    background-color: #eee;
+    border: 1px solid #666263;
+    display: block;
+    padding: 20px;
 }
 #h1-example {
-    border: 2px solid #666263;
+    border: 1px solid #45a7ba;
+    color: #45a7ba;
     padding: 50px;
 }
